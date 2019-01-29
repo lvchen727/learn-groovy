@@ -30,7 +30,7 @@ brew install groovy
 ```
 
 
-## [Groovy Tutorial](https://www.youtube.com/watch?v=B98jc8hdu9g)
+## [Groovy Tutorial: codes are from youtube](https://www.youtube.com/watch?v=B98jc8hdu9g)
 
 * [Math & basics](number.groovy)
 * [Strings](string.groovy)
